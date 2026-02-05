@@ -166,7 +166,7 @@ Follow clean, reproducible ML workflows
 I'm a data science enthusiast passionate about solving real-world problems using machine learning. This project showcases my ability to manage the full ML pipeline — from raw data to deployable solution.
 
 📩 I'm open to entry-level roles in data science. 
-Feel free to connect with me on [LinkedIn] www.linkedin/motheo-moshageng/!
+Feel free to connect with me on  www.linkedin/motheo-moshageng/!
 
 
 
